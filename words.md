@@ -1,2 +1,3 @@
 - candidate
 - penultimate = second to last = next to last
+- lowerbound / upperbound
