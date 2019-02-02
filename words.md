@@ -3,3 +3,4 @@
 - lowerbound / upperbound
 - counterexample
 - sentinel
+- octothorp = #
