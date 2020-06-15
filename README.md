@@ -1,3 +1,5 @@
-# words
-A list of English words related to computers. Used for naming things like variables, projects, ...
+# word treasure
+A list of English words
 [words](words.md)
+
+Don't take this too seriously

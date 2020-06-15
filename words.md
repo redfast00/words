@@ -3,4 +3,6 @@
 - lowerbound / upperbound
 - counterexample
 - sentinel
-- octothorp = #
+- octothorp = # (use octothorpe, it looks way cooler)
+- pragmatism
+- 
